@@ -15,3 +15,8 @@ Funcionamiento
 
 El usuario ingresa a una url similar a //dominio.com/img/{clave}. El servidor detecta que se requiere una imagen y esta es buscada en una base de datos del servidor, que contiene la ruta de la imagen a buscar.
 El servidor captura el contenido de la imagen y luego el contenido es mostrada como si la imagen estuviese en la ruta asignada.
+
+Licencia
+--------
+
+Revisar ![LICENSE.txt](https://raw.github.com/alfa30/Image-Share/master/LICENSE.txt)
