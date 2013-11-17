@@ -19,4 +19,4 @@ El servidor captura el contenido de la imagen y luego el contenido es mostrada c
 Licencia
 --------
 
-Revisar ![LICENSE.txt](https://raw.github.com/alfa30/Image-Share/master/LICENSE.txt)
+Revisar [LICENSE.txt](https://raw.github.com/alfa30/Image-Share/master/LICENSE.txt)
